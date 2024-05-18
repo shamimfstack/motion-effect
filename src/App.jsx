@@ -7,6 +7,7 @@ import Features from './components/Features'
 import Preview from './components/Preview'
 import SupportedBrwoser from './components/SupportedBrowsers'
 import PluginFeatures from './components/PluginFeatures'
+import Footer from './components/Footer'
 
 function App() {
 
@@ -19,6 +20,7 @@ function App() {
       <Preview />
       <SupportedBrwoser />
       <PluginFeatures />
+      <Footer />
     </div>
   )
 }

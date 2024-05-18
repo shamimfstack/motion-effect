@@ -25,7 +25,7 @@ export default function Hero() {
       </div>
       <div className="p-3 w-7/12">
         <div className="w-4/5">
-          <h1 className="text-7xl font-semibold leading-tight mr-4 mb-4">
+          <h1 className="text-2xl md:text-4xl lg:text-6xl font-semibold md:leading-normal mr-4 mb-4">
             <span className="text-[#EEE5FF]">
               Attract Your Visitors Attention With Colorful <br />
             </span>
