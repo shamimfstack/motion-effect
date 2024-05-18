@@ -2,7 +2,7 @@
 import './App.css'
 import Navbar from '../src//components/Navbar'
 import Hero from './components/Hero'
-import Feedback from './components/Feedbac'
+import Feedback from './components/Feedback'
 import Features from './components/Features'
 import Preview from './components/Preview'
 import SupportedBrwoser from './components/SupportedBrowsers'
