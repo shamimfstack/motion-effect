@@ -4,6 +4,9 @@ import Navbar from '../src//components/Navbar'
 import Hero from './components/Hero'
 import Feedback from './components/Feedbac'
 import Features from './components/Features'
+import Preview from './components/Preview'
+import SupportedBrwoser from './components/SupportedBrowsers'
+import PluginFeatures from './components/PluginFeatures'
 
 function App() {
 
@@ -13,6 +16,9 @@ function App() {
       <Hero />
       <Feedback />
       <Features />
+      <Preview />
+      <SupportedBrwoser />
+      <PluginFeatures />
     </div>
   )
 }
