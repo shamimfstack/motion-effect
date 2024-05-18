@@ -5,7 +5,7 @@ export default function Navbar() {
     <div className="pt-6">
       <nav className="flex justify-between max-w-7xl mx-auto">
         <div>
-          <a href="/">
+          <a href="/" className="">
             <img src={siteLogo} alt="site logo" />
           </a>
         </div>
